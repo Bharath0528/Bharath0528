@@ -1,6 +1,6 @@
-<!-- Custom Top Banner -->
+<!-- Custom Top Banner (replace banner.png with your uploaded custom image) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/000000/00FFFF?text=Bharath+Kumar+K+-+Java+Full+Stack+Developer&style=for-the-badge" alt="Bharath Kumar K - Java Full Stack Developer">
+  <img src="banner.png" alt="Bharath Kumar K - Java Full Stack Developer">
 </p>
 
 <h1 align="center">
@@ -43,6 +43,17 @@ My aim is to merge technical expertise with business insight to build impactful 
 ## 📜 Certifications
 - 🎓 [GUVI Java Full Stack Developer Certification](https://www.zenclass.in/certificateDownload/57959my4VkO91OxJ?download=true)  
 - 🎓 [GUVI – NSDC Certification](https://drive.google.com/file/d/1QhItK7_C1LSQcrzez6S780Qd1SOWqmxv/view?usp=drive_link)  
+
+---
+
+## 🎯 Hobbies & Interests
+<p align="center">
+  <b>🎬 Watching Movies</b> – Especially Tamil classics & emotional dramas. <br>
+  <b>🎶 Listening to Music</b> – From soothing melodies to energetic beats. <br>
+  <b>🎤 Public Speaking</b> – Engaging with audiences and sharing ideas. <br>
+  <b>🎮 Gaming</b> – Casual and strategy-based games. <br>
+  <b>📚 Audiobooks & Learning</b> – Exploring new concepts and tech trends.
+</p>
 
 ---
 
