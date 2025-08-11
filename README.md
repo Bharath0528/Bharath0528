@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+Java;Crafting+Scalable+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Bharath+Kumar+K;Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+Java;Crafting+Scalable+Solutions">
 </h1>
 
 ---
@@ -25,7 +25,8 @@ My aim is to merge technical expertise with business insight to build impactful 
 
 ## 🛠 Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,java,mysql,spring,idea,eclipse,postman,maven,figma,canva,vscode,netlify,junit" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,java,mysql,spring,idea,eclipse,postman,maven,figma,vscode,netlify,junit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Canva_Logo.png" width="48" alt="Canva"/>
 </p>
 
 ---
