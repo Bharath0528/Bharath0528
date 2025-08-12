@@ -1,18 +1,18 @@
 <!-- Animated Top Banner -->
 <p align="center">
-  <img src="banner.gif" alt="Bharath Kumar K – Java Full Stack Developer" width="1000">
+  <img src="banner.gif" alt="Bharath Kumar K – Java Full Stack Developer | Turning Ideas into Scalable Solutions" width="1000">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Bharath+Kumar+K;Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+Java;Crafting+Scalable+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Bharath+Kumar+K;Java+Full+Stack+Developer;Turning+Ideas+into+Scalable+Solutions;Spring+Boot+%7C+MySQL+%7C+Java">
 </h1>
 
 ---
 
 ## 💼 About Me
-I am a **Java Full Stack Developer** passionate about creating **scalable**, **user-friendly** web applications.  
-With a background as a **Research Analyst in robotics**, I bring strong **problem-solving**, **leadership**, and **client engagement** skills.  
-My aim is to merge technical expertise with business insight to build impactful software solutions.
+I am a **Java Full Stack Developer** passionate about creating **scalable** and **user-friendly** web applications.  
+With a background as a **Research Analyst in robotics**, I bring **problem-solving**, **leadership**, and **client engagement** skills.  
+I strive to merge **technical expertise** with **business insight** to deliver impactful software solutions.
 
 ---
 
@@ -26,7 +26,6 @@ My aim is to merge technical expertise with business insight to build impactful 
 ## 🛠 Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,java,mysql,spring,idea,eclipse,postman,maven,figma,vscode,netlify,junit" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Canva_Logo.png" width="48" alt="Canva"/>
 </p>
 
 ---
