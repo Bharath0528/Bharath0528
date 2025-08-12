@@ -49,11 +49,11 @@ My aim is to merge technical expertise with business insight to build impactful 
 
 ## 🎯 Hobbies & Interests
 <p align="center">
-  <b>🎬 Watching Tamil Movies</b><br>
-  <b>🎶 Music Enthusiast</b><br>
-  <b>🎤 Public Speaking & Leadership</b><br>
-  <b>🎮 Strategy & Casual Gaming</b><br>
-  <b>📚 Audiobooks & Continuous Learning</b>
+  🎬 Watching Tamil Movies <br>
+  🎶 Music Enthusiast <br>
+  🎤 Public Speaking & Leadership <br>
+  🎮 Strategy & Casual Gaming <br>
+  📚 Audiobooks & Continuous Learning
 </p>
 
 ---
